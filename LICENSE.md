@@ -1,4 +1,4 @@
-# 
+# Ultime JetBrains Rider extensions pour Mac OS | Premium JetBrains Rider extensions pour PC Windows. Avec outils de base de données et journaux des conteneurs — optimisé pour des performances maximales sur chaque plateforme.
 
 
 
